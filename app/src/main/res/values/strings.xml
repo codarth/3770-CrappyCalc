@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CrappyCalc</string>
+    <string name="number1"></string> // Empty on purpose
+    <string name="number2"></string> // Empty on purpose
+    <string name="equal">=</string>
+    <string name="ComputationResult">0</string>
+    <string name="ERROR">ERROR</string>
+    <string-array name="ops"> // Spinner items
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
